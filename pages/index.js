@@ -1,5 +1,6 @@
 import MeetupList from '../components/meetups/MeetupList'
 
+
 const Dummy_Meetups = [
   {
     id: 'm1',
